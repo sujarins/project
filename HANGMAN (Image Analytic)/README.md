@@ -12,7 +12,8 @@ https://github.com/sujarins/project/assets/56682174/0d1a046d-9cad-4a04-8f5d-2ee3
 <img width="400" alt="emnist_letters_examples" src="https://github.com/sujarins/project/assets/56682174/15fa37b4-8aeb-49e8-8c22-fe4e1401864b">
 
 #### How it works
-<img width="600" alt="method" src="https://github.com/sujarins/project/assets/56682174/b2273530-9f62-4f1f-8824-f841651cc33b">
+<img width="600" alt="how_it_works" src="https://github.com/sujarins/project/assets/56682174/0ed37587-6819-4082-9279-a6d9fdadf66f">
+
 
 #### Limitation:
 - Our model can only predict English letters.

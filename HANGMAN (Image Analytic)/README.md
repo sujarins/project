@@ -25,7 +25,7 @@ url : https://pypi.org/project/emnist/
 <br><br>
 
 ### Demo
-
+https://github.com/sujarins/project/blob/15fa9efddc73ba97adf50eea049a88a087045ffd/HANGMAN%20(Image%20Analytic)/img/hangman_demo.mp4
 <br><br>
 
 ### Limitation:

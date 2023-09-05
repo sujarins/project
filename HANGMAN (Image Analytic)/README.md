@@ -12,6 +12,7 @@ My team would like to develop a game that can be played without the tools like a
 <br><br>
 
 ### Dataset training model : EMNIST Letters: 145,600 characters. 26 balanced classes.
+url : https://pypi.org/project/emnist/
 
 <br><br>
 
@@ -23,6 +24,11 @@ My team would like to develop a game that can be played without the tools like a
 
 <br><br>
 
+### Demo
+
+<br><br>
+
 ### Limitation:
 - Our model can only predict English letters.
-- Our game still has to require a mouse at first to select word catagories.
+- Our game still has to require a mouse at starting game to select word categories and at endding game to leave the game.
+- finger detecting is depend on your computer, camera and light.
